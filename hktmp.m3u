@@ -1,653 +1,653 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文1
 http://112.19.171.156:9999/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文2
 http://113.64.145.9:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文3
 http://115.193.30.85:9999/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文4
 http://115.215.52.219:9999/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文5
 http://115.215.52.219:9999/udp/233.50.200.42:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文6
 http://115.230.183.55:9999/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文7
 http://115.239.104.93:9999/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文8
 http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文9
 http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文10
 http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文11
 http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文12
 http://118.112.148.228:58888/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文13
 http://118.112.148.228:58888/udp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文14
 http://118.112.148.249:4022/rtp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文15
 http://118.113.254.110:18888/rtp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文16
 http://118.114.97.244:888/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文17
 http://118.114.97.244:888/udp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文18
 http://118.249.22.122:8989/rtp/239.76.246.7:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文19
 http://118.254.156.252:8888/rtp/239.76.246.7:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文20
 http://118.254.201.41:8888/rtp/239.76.246.7:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文21
 http://118.254.201.41:8888/udp/239.76.246.134:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文22
 http://118.254.201.41:8888/udp/239.76.246.7:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文23
 http://118.254.201.41:8888/udp/239.76.253.135:9000
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文24
 http://118.254.201.45:8888/rtp/239.76.246.7:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文25
 http://118.254.201.45:8888/udp/239.76.246.134:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文26
 http://118.254.201.45:8888/udp/239.76.253.135:9000
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文27
 http://118.254.203.45:8888/rtp/239.76.253.135:9000
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文28
 http://118.254.203.82:8888/rtp/239.76.253.135:9000
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文29
 http://121.24.99.213:8090/hls/66/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文30
 http://122.224.232.226:8888/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文31
 http://122.246.150.139:9999/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文32
 http://122.246.150.139:9999/udp/233.50.200.42:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文33
 http://124.230.56.141:55555/rtp/239.76.253.135:9000
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文34
 http://124.230.56.162:55555/rtp/239.76.253.135:9000
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文35
 http://124.230.56.176:55555/rtp/239.76.246.7:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文36
 http://124.230.56.176:55555/udp/239.76.246.134:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文37
 http://124.230.56.176:55555/udp/239.76.246.7:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文38
 http://124.230.56.176:55555/udp/239.76.253.135:9000
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文39
 http://124.230.56.224:55555/rtp/239.76.246.7:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文40
 http://124.230.56.224:55555/udp/239.76.246.134:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文41
 http://124.230.56.224:55555/udp/239.76.246.7:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文42
 http://124.230.56.224:55555/udp/239.76.253.135:9000
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文43
 http://125.113.88.160:8888/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文44
 http://125.120.163.115:4022/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文45
 http://146.56.153.245:20121/bysid/258
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文46
 http://154.29.149.9:9981/stream/test/pcc/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文47
 http://171.213.129.135:9999/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文48
 http://171.213.129.135:9999/udp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文49
 http://171.213.129.5:58888/rtp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文50
 http://171.213.130.146:8889/rtp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文51
 http://171.213.146.138:5555/rtp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文52
 http://171.213.147.228:8818/rtp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文53
 http://171.213.205.185:8888/rtp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文54
 http://171.223.215.229:4000/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文55
 http://171.223.215.229:4000/udp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文56
 http://175.10.34.40:4022/rtp/239.76.246.7:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文57
 http://175.43.106.84:4022/udp/239.61.2.184:9092
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文58
 http://175.43.106.84:4022/udp/239.61.5.48:1025
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文59
 http://175.6.66.235:12388/rtp/239.76.246.7:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文60
 http://180.143.86.242:8181/tsfile/live/1083_1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文61
 http://182.138.120.226:8888/rtp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文62
 http://183.130.39.45:8889/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文63
 http://183.130.39.45:8889/udp/233.50.200.42:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文64
 http://183.133.104.36:8899/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文65
 http://183.133.105.59:8899/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文66
 http://183.133.105.59:8899/udp/233.50.200.42:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文67
 http://183.141.185.66:9999/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文68
 http://183.141.185.66:9999/udp/233.50.200.42:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文69
 http://183.234.238.18:8927/live1129.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文70
 http://218.71.48.228:9999/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文71
 http://218.71.48.228:9999/udp/233.50.200.42:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文72
 http://219.145.19.114:5554/rtp/239.111.205.78:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文73
 http://219.145.19.118:5555/rtp/239.111.205.78:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文74
 http://220.184.68.25:4022/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文75
 http://220.188.231.24:9999/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文76
 http://221.237.15.56:4443/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文77
 http://221.237.15.56:4443/udp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文78
 http://222.212.152.219:4443/rtp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文79
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文80
 http://58.250.155.2:8180/TV00000000000000000031@HHZT
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文81
 http://60.176.81.80:4022/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文82
 http://60.176.81.80:4022/udp/233.50.200.42:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文83
 http://61.130.232.196:8881/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文84
 http://61.130.232.196:8881/udp/233.50.200.42:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文85
 http://61.130.232.37:8881/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文86
 http://61.130.232.37:8881/udp/233.50.200.42:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文87
 http://61.130.232.37:8889/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文88
 http://61.130.232.37:8889/udp/233.50.200.42:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文89
 http://61.185.200.157:10000/rtp/239.111.205.78:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文90
 http://[2409:8087:2801:22:100::45]/wh7f454c46tw14778710_346869978/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文91
 http://ayolee.com:5253/rtp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文92
 http://ayolee.com:5253/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文93
 http://ayolee.com:5253/udp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文94
 http://dms.yryyj.site:8188/udp/239.76.246.135:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文95
 http://dms.yryyj.site:8188/udp/239.76.253.135:9000
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文96
 http://eastscreen.tv/ooooo.php?id=fhws
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文97
 http://free.xiptv.x10.bz/kudou.php?id=121
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文98
 http://hwltc.tv.cdn.zj.chinamobi ... 21236260/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文99
 http://iptviptv.site:9694/hls/731/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文100
 http://mail.petzhu.top:7000/udp/239.254.201.2:5226
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文101
 http://op.sev7.net:4022/rtp/239.254.201.2:5226
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文102
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文103
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文104
 http://php.jdshipin.com:8880/xsj.php?id=phtv-cn
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文105
 http://pi.0472.org/tv/cbn.php?id=xfjcHD
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文106
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文107
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文108
 http://r.jdshipin.com/cCCzW
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文109
 http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文110
 http://s.cdhongyuan.cn:4022/udp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文111
 http://sss918.synology.me:8000/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文112
 http://sss918.synology.me:8000/rtp/233.50.200.42:5140
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文113
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文114
 http://tv.sd.cn/sichuan?id=239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文115
 http://vl15191373.imwork.net:8880/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文116
 http://vl15191373.imwork.net:8880/udp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文117
 http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文118
 http://wouu.net:9977/rtp/239.93.0.162:2192Cf=cfss.cc
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文119
 http://wouu.net:9977/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文120
 http://wouu.net:9977/udp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文121
 http://www.91dos.cn:4022/udp/239.61.2.184:9092
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文122
 http://www.91dos.cn:4022/udp/239.61.5.48:1025
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文123
 http://www.biaozhun114.com/tv/beijingall.php?id=61
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文124
 http://www.biaozhun114.com/tv/fengshows.php?id=1
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文125
 http://www.erbao1981.top:8188/udp/239.76.246.135:1234
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文126
 http://www.hn-valve.com:8888/udp/239.76.253.134:9000
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文127
 http://www.hn-valve.com:8888/udp/239.76.253.135:9000
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文128
 http://www.petzhu.top:7000/rtp/239.254.201.2:5226
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文129
 http://www.sjwyp.com:4022/rtp/239.254.201.2:5226
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文130
 http://www.tk1986.top:8888/udp/239.76.253.135:9000
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文131
 http://xbbhome.top:8888/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文132
 http://xeace.cn:8888/rtp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文133
 http://xeace.cn:8888/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文134
 http://yuzhe.ltd:5555/udp/239.93.1.9:2192
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文135
 http://zjrtv.vip/live/?tbs=fhzw
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文136
 https://ali.hlspull.yximgs.com/live/6f394630b94772c5e73cfa38d7653e78.flv
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文137
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文138
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文139
 https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文140
 https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文141
 https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文142
 https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文143
 https://www.zhixun.com.mp/zx.php?id=fezw
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视144
 http://103.116.245.163/sxg/sxg.php?id=/test1_4000.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视145
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视146
 http://122.224.232.218:8888/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视147
 http://154.12.50.54:123/smt.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视148
 http://183.234.238.18:8927/live1129.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视149
 http://221.7.239.115:8181/tsfile/live/0108_1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视150
 http://221.7.239.115:8181/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视151
 http://43.141.130.51/bst.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视152
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视153
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视154
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视155
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视156
 https://epg.pw/stream/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰卫视
+#EXTINF:-1 group-title="港澳台",凤凰卫视157
 https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯158
 http://103.116.245.163/sxg/sxg.php?id=/test2_4000.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯159
 http://115.193.30.85:9999/rtp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯160
 http://115.215.52.219:9999/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯161
 http://115.230.183.55:9999/rtp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯162
 http://115.239.104.93:9999/rtp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯163
 http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯164
 http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯165
 http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯166
 http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯167
 http://118.112.148.228:58888/udp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯168
 http://118.112.148.249:4022/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯169
 http://118.113.254.110:18888/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯170
 http://118.114.97.244:888/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯171
 http://118.114.97.244:888/udp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯172
 http://118.249.22.122:8989/rtp/239.76.246.8:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯173
 http://118.254.156.252:8888/rtp/239.76.246.8:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯174
 http://118.254.201.41:8888/rtp/239.76.246.8:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯175
 http://118.254.201.41:8888/udp/239.76.246.135:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯176
 http://118.254.201.41:8888/udp/239.76.246.8:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯177
 http://118.254.201.41:8888/udp/239.76.253.134:9000
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯178
 http://118.254.201.45:8888/rtp/239.76.246.8:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯179
 http://118.254.201.45:8888/udp/239.76.246.135:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯180
 http://118.254.201.45:8888/udp/239.76.253.134:9000
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯181
 http://118.254.203.45:8888/rtp/239.76.253.134:9000
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯182
 http://118.254.203.82:8888/rtp/239.76.253.134:9000
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯183
 http://120.238.53.230:2223/hls/10/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯184
 http://121.24.98.127:8090/hls/70/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯185
 http://121.24.99.213:8090/hls/72/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯186
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=16
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯187
 http://122.224.232.226:8888/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯188
 http://122.246.150.139:9999/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯189
 http://124.230.56.141:55555/rtp/239.76.253.134:9000
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯190
 http://124.230.56.162:55555/rtp/239.76.253.134:9000
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯191
 http://124.230.56.176:55555/rtp/239.76.246.8:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯192
 http://124.230.56.176:55555/udp/239.76.246.135:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯193
 http://124.230.56.176:55555/udp/239.76.246.8:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯194
 http://124.230.56.176:55555/udp/239.76.253.134:9000
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯195
 http://124.230.56.224:55555/rtp/239.76.246.8:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯196
 http://124.230.56.224:55555/udp/239.76.246.135:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯197
 http://124.230.56.224:55555/udp/239.76.246.8:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯198
 http://124.230.56.224:55555/udp/239.76.253.134:9000
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯199
 http://125.113.88.160:8888/rtp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯200
 http://125.120.163.115:4022/rtp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯201
 http://146.56.153.245:20121/bysid/257
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯202
 http://154.12.50.54:123/smt.php?id=phoenixinfo_hd
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯203
 http://154.29.149.9:9981/stream/test/pin/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯204
 http://171.108.239.126:8181/tsfile/live/1024_1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯205
 http://171.108.239.127:8181/tsfile/live/1024_1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯206
 http://171.108.239.128:8181/tsfile/live/1024_1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯207
 http://171.108.239.128:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯208
 http://171.213.129.135:9999/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯209
 http://171.213.129.135:9999/udp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯210
 http://171.213.129.5:58888/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯211
 http://171.213.130.146:8889/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯212
 http://171.213.146.138:5555/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯213
 http://171.213.147.228:8818/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯214
 http://171.213.205.185:8888/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯215
 http://171.223.215.229:4000/udp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯216
 http://175.43.106.84:4022/udp/239.61.2.183:9086
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯217
 http://175.43.106.84:4022/udp/239.61.5.47:1025
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯218
 http://175.6.66.235:12388/rtp/239.76.246.8:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯219
 http://180.143.86.242:8181/tsfile/live/1082_1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯220
 http://182.138.120.226:8888/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯221
 http://183.130.39.45:8889/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯222
 http://183.133.104.36:8899/rtp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯223
 http://183.133.105.59:8899/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯224
 http://183.141.185.66:9999/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯225
 http://183.234.238.18:8926/live1128.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯226
 http://210.210.155.37/qwr9ew/s/s21/01.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯227
 http://218.71.48.228:9999/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯228
 http://219.145.19.114:5554/rtp/239.111.205.82:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯229
 http://219.145.19.118:5555/rtp/239.111.205.82:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯230
 http://220.184.68.25:4022/rtp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯231
 http://220.188.231.24:9999/rtp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯232
 http://221.237.15.56:4443/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯233
 http://221.237.15.56:4443/udp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯234
 http://221.7.239.115:8181/tsfile/live/1064_1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯235
 http://221.7.239.115:8181/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯236
 http://222.212.152.219:4443/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯237
 http://43.141.130.51/bst.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯238
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯239
 http://60.176.81.80:4022/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯240
 http://60.2.190.206:4000/rtp/239.253.93.83:6249
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯241
 http://61.130.232.196:8881/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯242
 http://61.130.232.37:8881/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯243
 http://61.130.232.37:8889/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯244
 http://61.185.200.157:10000/rtp/239.111.205.82:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯245
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯246
 http://[2409:8087:2801:20:100::50]/wh7f454c46tw54228331_-952106546/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯247
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯248
 http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯249
 http://ayolee.com:5253/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯250
 http://ayolee.com:5253/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯251
 http://ayolee.com:5253/udp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯252
 http://dms.yryyj.site:8188/udp/239.76.246.134:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯253
 http://dms.yryyj.site:8188/udp/239.76.253.134:9000
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯254
 http://e2.woc.iiiya.cn:8888/udp/239.61.5.47:1025
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯255
 http://e3.woc.iiiya.cn:8888/udp/239.61.5.47:1025
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯256
 http://eastscreen.tv/ooooo.php?id=fhzx
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯257
 http://free.xiptv.x10.bz/kudou.php?id=122
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯258
 http://hwltc.tv.cdn.zj.chinamobi ... 21236197/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯259
 http://iptviptv.site:9694/hls/732/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯260
 http://itms.xznet.org:41097/rtp/239.254.201.3:5227
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯261
 http://php.jdshipin.com:8880/jydx.php?id=36
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯262
 http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯263
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯264
 http://php.jdshipin.com:8880/xsj.php?id=phtv-info
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯265
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯266
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯267
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯268
 http://r.jdshipin.com/0Rp07
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯269
 http://s.cdhongyuan.cn:4022/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯270
 http://s.cdhongyuan.cn:4022/udp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯271
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯272
 http://tv.sd.cn/sichuan?id=239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯273
 http://udnhls.skilldns.com:80/fhzx-cn.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯274
 http://vl15191373.imwork.net:8880/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯275
 http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯276
 http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯277
 http://wouu.net:9977/rtp/239.93.0.118:2191Cf=cfss.cc
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯278
 http://wouu.net:9977/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯279
 http://wouu.net:9977/udp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯280
 http://www.372583307.top:4022/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯281
 http://www.91dos.cn:4022/udp/239.61.2.183:9086
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯282
 http://www.91dos.cn:4022/udp/239.61.5.47:1025
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯283
 http://www.biaozhun114.com/tv/beijingall.php?id=60
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯284
 http://www.biaozhun114.com/tv/fengshows.php?id=2
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯285
 http://www.erbao1981.top:8188/udp/239.76.246.134:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯286
 http://www.yao87.com:4022/udp/239.76.246.135:1234
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯287
 http://xbbhome.top:8888/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯288
 http://xbbhome.top:8888/udp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯289
 http://xeace.cn:8888/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯290
 http://xeace.cn:8888/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯291
 http://zjrtv.vip/live/?tbs=fhzx
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯292
 https://ali.hlspull.yximgs.com/live/129b4d0ac20a979250d87c3c99ac676a.flv
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯293
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯294
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯295
 https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯296
 https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯297
 https://stream1.freetv.fun/bfd140266f0bc1d9689c8cca261521038b45d662a160a3785d45d074b26899c2.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯298
 https://www.zhixun.com.mp/zx.php?id=fezx
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港299
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8凤凰中文
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港300
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8凤凰资询
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港301
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港302
 http://124.244.149.194:65531/bysid/85
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港303
 http://154.12.50.54:123/smt.php?id=hkphoenix_twn
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港304
 http://154.12.50.54:123/smt.php?id=tvbcaijing_twn
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港305
 http://154.29.149.9:9981/stream/test/phk/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港306
 http://180.143.86.242:8181/tsfile/live/1084_1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港307
 http://221.7.239.115:8181/tsfile/live/1065_1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港308
 http://221.7.239.115:8181/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港309
 http://43.141.130.51/bst.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港310
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港311
 http://free.xiptv.x10.bz/kudou.php?id=123
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港312
 http://iptviptv.site:9694/hls/730/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港313
 http://php.jdshipin.com:8880/jydx.php?id=38
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港314
 http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港315
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港316
 http://php.jdshipin.com:8880/xsj.php?id=phtv-hk
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港317
 http://r.jdshipin.com/yDoTN
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港318
 http://www.biaozhun114.com/tv/fengshows.php?id=3
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港319
 http://www.lebaobei.top:6868/udp/239.255.30.123:8231
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港320
 http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.96.42:808/hls/81/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港321
 http://zjrtv.vip/live/?tbs=fhxg
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港322
 https://ali.hlspull.yximgs.com/live/ab5eb9ad4c91db4f9cf10d5e460e7af0.flv
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港323
 https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港324
 https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港325
 https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰香港326
 https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
