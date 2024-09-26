@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 group-title="港澳台",凤凰中文1
 http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
 #EXTINF:-1 group-title="港澳台",凤凰中文2
