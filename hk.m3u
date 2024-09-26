@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 group-title="港澳台",凤凰中文1
 http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰香港20
+#EXTINF:-1 group-title="港澳台",凤凰香港2
 https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯213
+#EXTINF:-1 group-title="港澳台",凤凰资讯3
 http://www.372583307.top:4022/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯215
+#EXTINF:-1 group-title="港澳台",凤凰资讯4
 http://222.212.152.219:4443/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯220
+#EXTINF:-1 group-title="港澳台",凤凰资讯5
 https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯231
+#EXTINF:-1 group-title="港澳台",凤凰资讯6
 http://e3.woc.iiiya.cn:8888/udp/239.61.5.47:1025
-#EXTINF:-1 group-title="港澳台",凤凰资讯234
+#EXTINF:-1 group-title="港澳台",凤凰资讯7
 http://171.213.137.173:8088/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯291
+#EXTINF:-1 group-title="港澳台",凤凰资讯8
 http://xeace.cn:8888/udp/239.93.0.118:2191
