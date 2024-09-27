@@ -1,17 +1,39 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 group-title="港澳台",凤凰中文1
-http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="港澳台",凤凰香港2
-https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯3
-http://www.372583307.top:4022/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港澳台",凤凰资讯4
+#EXTINF:-1 group-title="港澳台",凤凰资讯168
+http://118.112.148.249:4022/rtp/239.93.1.4:2191
+#EXTINF:-1 group-title="港澳台",凤凰中文14
+http://118.112.148.249:4022/rtp/239.93.1.9:2192
+#EXTINF:-1 group-title="港澳台",凤凰资讯210
+http://171.213.129.5:58888/rtp/239.93.1.4:2191
+#EXTINF:-1 group-title="港澳台",凤凰中文49
+http://171.213.129.5:58888/rtp/239.93.1.9:2192
+#EXTINF:-1 group-title="港澳台",凤凰资讯211
+http://171.213.130.146:8889/rtp/239.93.1.4:2191
+#EXTINF:-1 group-title="港澳台",凤凰中文50
+http://171.213.130.146:8889/rtp/239.93.1.9:2192
+#EXTINF:-1 group-title="港澳台",凤凰资讯214
+http://171.213.205.185:8888/rtp/239.93.1.4:2191
+#EXTINF:-1 group-title="港澳台",凤凰中文53
+http://171.213.205.185:8888/rtp/239.93.1.9:2192
+#EXTINF:-1 group-title="港澳台",凤凰中文61
+http://182.138.120.226:8888/rtp/239.93.1.9:2192
+#EXTINF:-1 group-title="港澳台",凤凰资讯220
+http://182.138.120.226:8888/rtp/239.93.1.4:2191
+#EXTINF:-1 group-title="港澳台",凤凰中文78
+http://222.212.152.219:4443/rtp/239.93.1.9:2192
+#EXTINF:-1 group-title="港澳台",凤凰资讯236
 http://222.212.152.219:4443/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯5
-https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯6
+#EXTINF:-1 group-title="港澳台",凤凰资讯255
 http://e3.woc.iiiya.cn:8888/udp/239.61.5.47:1025
-#EXTINF:-1 group-title="港澳台",凤凰资讯7
-http://171.213.137.173:8088/rtp/239.93.1.4:2191
-#EXTINF:-1 group-title="港澳台",凤凰资讯8
+#EXTINF:-1 group-title="港澳台",凤凰中文109
+http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="港澳台",凤凰资讯270
+http://s.cdhongyuan.cn:4022/udp/239.93.1.4:2191
+#EXTINF:-1 group-title="港澳台",凤凰中文110
+http://s.cdhongyuan.cn:4022/udp/239.93.1.9:2192
+#EXTINF:-1 group-title="港澳台",凤凰资讯289
+http://xeace.cn:8888/rtp/239.93.1.4:2191
+#EXTINF:-1 group-title="港澳台",凤凰资讯290
 http://xeace.cn:8888/udp/239.93.0.118:2191
+#EXTINF:-1 group-title="港澳台",凤凰中文133
+http://xeace.cn:8888/udp/239.93.0.162:2192
